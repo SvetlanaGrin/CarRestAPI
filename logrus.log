@@ -1,1 +1,1 @@
-
+{"level":"fatal","msg":"Error init DB: dial tcp [::1]:5432: connectex: No connection could be made because the target machine actively refused it.\n","time":"2024-05-06T11:27:13+03:00"}
