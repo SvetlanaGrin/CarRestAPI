@@ -12,3 +12,29 @@
 4. Покрыть код debug- и info-логами
 5. Вынести конфигурационные данные в .env-файл
 6. Сгенерировать сваггер на реализованное АПИ
+
+
+Старт с docker 
+
+Запустите docker-compose up, чтобы поднять зависимости и сервер на порту 8000.
+
+REST API
+
+В папке Dock лежат swagger.yaml и swagger.json файлы с описанием запросов.
+
+Описание .env файла:
+
+PORT=8000
+
+DB_USERNAME=root
+
+DB_PASSWORD=root
+
+DB_HOST=localhost
+
+DB_PORT=5432
+
+DB_DBNAME=postgres
+
+DB_SSLMODE=disable
+
