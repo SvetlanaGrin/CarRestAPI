@@ -1,0 +1,7 @@
+{"level":"info","msg":"initializing server port disable","time":"2024-05-05T21:19:09+03:00"}
+{"level":"info","msg":"Successful connection to the database","time":"2024-05-05T21:19:09+03:00"}
+{"level":"info","msg":"initializing migrate","time":"2024-05-05T21:19:10+03:00"}
+{"level":"debug","msg":"request query fltration decoded.mark ","time":"2024-05-05T21:19:15+03:00"}
+{"level":"debug","msg":"request query pfgination decoded. limit=2 and offset=0","time":"2024-05-05T21:19:15+03:00"}
+{"level":"debug","msg":"request query fltration decoded.mark ","time":"2024-05-05T21:19:35+03:00"}
+{"level":"debug","msg":"request query pfgination decoded. limit=2 and offset=3","time":"2024-05-05T21:19:35+03:00"}
