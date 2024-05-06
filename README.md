@@ -16,13 +16,7 @@
 
 Старт с docker 
 
-Запустите docker-compose up, чтобы поднять зависимости и сервер на порту 8000.
-
-REST API
-
-В папке Dock лежат swagger.yaml и swagger.json файлы с описанием запросов.
-
-Описание .env файла:
+Добавьте .env файл:
 
 PORT=8000
 
@@ -37,4 +31,12 @@ DB_PORT=5432
 DB_DBNAME=postgres
 
 DB_SSLMODE=disable
+
+Запустите docker-compose up, чтобы поднять зависимости и сервер на порту 8000.
+
+Запустите  go run cmd/main.go
+
+REST API
+
+В папке Dock лежат swagger.yaml и swagger.json файлы с описанием запросов.
 
